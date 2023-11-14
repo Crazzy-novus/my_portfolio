@@ -23,6 +23,8 @@ import "./styles.css";
  *
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
+
+/* hello it just a update*/
 const siteProps = {
   name: "Durai Vignesh C",
   title: "| Google developer student club lead 2023 | Android developer | Android Developer Intern @ The Sparks Foundation | Tech enthusiast |",
